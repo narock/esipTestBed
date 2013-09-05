@@ -36,7 +36,7 @@ public class Endpoints
 	public static String agu = "http://198.61.161.98:8890/sparql";
 	
 	// ESIP/NSF AWS SPARQL Endpoint
-	public static String esip = "http://ec2-54-225-124-3.compute-1.amazonaws.com:8890/sparql";
+	public static String esip = "http://ec2-107-21-230-196.compute-1.amazonaws.com:8890/sparql";
 	
 	public static ResultSet queryEndpoint ( String endpoint, String sparqlQueryString ) 
     {
